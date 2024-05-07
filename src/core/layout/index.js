@@ -10,7 +10,7 @@ export const Layout = (props) => {
           <div className="d-flex flex-grow-1">
             <nav className="courseTitle">
               <button className="navbar-brand border-0">
-                <img src={require("")} alt="logo" />
+                <img src={require("../../logo 2.png")} alt="logo" />
               </button>
             </nav>
             <div className="flex-grow-1">
@@ -36,7 +36,7 @@ export const Layout = (props) => {
         <div className="d-flex justify-content-between px-5">
           <div>ALL RIGHTS RESERVED SIMPLE CLOCK</div>
           <div>
-            <img src={require("")} alt="logo" />
+            <img src={require("../../logo 1.png")} alt="logo" />
           </div>
         </div>
       </footer>
