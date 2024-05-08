@@ -1,6 +1,2 @@
  # Simple Clock App
-
-##### Purpose :
-    Create a simple analogue clock application using React
-
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/reactjs/simple-clock/)
+ # Check out the live app [here](https://harika-brs.github.io/simple-clock/)
